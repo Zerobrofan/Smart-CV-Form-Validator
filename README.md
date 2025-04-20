@@ -41,19 +41,18 @@ A C# Windows Forms application for validating user form input and parsing CV con
 ## ✅ Example CV Input
 ```
 Name: Sarah Johnson  
-Email: sarah.johnson@example.com  
+Email: sarah@example.com  
 Phone: +12345678901  
 
 Professional Summary:  
-A highly motivated software engineer with 3 years of experience in developing enterprise-level applications.  
+A highly motivated software engineer with 3 years of experience in developing enterprise-level applications. 
 
 Skills:  
-C#, Java, SQL, Python, HTML, CSS, JavaScript  
+Java,, Python,, JavaScript  
 
 Work Experience:  
 Software Developer at Tech Solutions Inc.  
 March 2021 – Present  
-- Developed Windows Forms applications using C#  
 - Managed databases using SQL Server  
 - Collaborated with cross-functional teams  
 
