@@ -1,9 +1,13 @@
-# Smart CV & Form Validator
+# Smart CV & Form Validator (With Bonus Task)
 
 
+## Project Video
 https://github.com/user-attachments/assets/23b39504-a1cc-4486-ac77-3e8035ca7295
 
+## Bonus Task
+![validator](https://github.com/user-attachments/assets/338c157c-cdce-4a23-9ef4-378aec4b4921)
 
+## Project Description
 A C# Windows Forms application for validating user form input and parsing CV content using Regular Expressions (Regex).
 
 ## 🚀 Features
@@ -28,6 +32,11 @@ A C# Windows Forms application for validating user form input and parsing CV con
   - Skills (e.g., C#, Java, SQL)
   - Years of Experience (e.g., "3 years")
 - Results are displayed in a message box
+
+### 3. Bonus Task
+- Error Higlighting (Valid input = green 🟩, Invalid input = red 🟥)
+- Arabic Regex support
+- Saving parsed data into a .txt/.csv file format.
 
 ## 💻 Tech Stack
 
