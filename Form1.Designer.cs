@@ -5,7 +5,7 @@
         private System.ComponentModel.IContainer components = null;
 
         private TextBox txtName, txtEmail, txtPhone, txtPassword, txtAddress, txtPostal, txtCV;
-        private Button btnValidateForm, btnParseCV;
+        private Button btnValidateForm, btnParseCV, btnSaveResults;
         private Label lblTitle;
 
         protected override void Dispose(bool disposing)
@@ -26,6 +26,7 @@
             btnValidateForm = new Button();
             btnParseCV = new Button();
             lblTitle = new Label();
+            btnSaveResults = new Button();
             SuspendLayout();
             // 
             // txtName
@@ -111,9 +112,19 @@
             lblTitle.TabIndex = 0;
             lblTitle.Text = "Smart CV and Form Validator";
             // 
+            // btnSaveResults
+            // 
+            btnSaveResults.Location = new Point(20, 280);
+            btnSaveResults.Name = "btnSaveResults";
+            btnSaveResults.Size = new Size(530, 30);
+            btnSaveResults.TabIndex = 10;
+            btnSaveResults.Text = "Save Results to File";
+            btnSaveResults.Click += btnSaveResults_Click;
+            // 
             // Form1
             // 
-            ClientSize = new Size(580, 300);
+            ClientSize = new Size(580, 320);
+            Controls.Add(btnSaveResults);
             Controls.Add(lblTitle);
             Controls.Add(txtName);
             Controls.Add(txtEmail);
