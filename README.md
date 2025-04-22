@@ -52,6 +52,7 @@ A C# Windows Forms application for validating user form input and parsing CV con
 4. Test form validation and CV parsing
 
 ## ✅ Example CV Input
+### English
 ```
 Name: Sarah Johnson  
 Email: sarah@example.com  
@@ -75,4 +76,13 @@ University of Technology – 2018
 
 Languages:  
 English, French
+```
+### Arabic
+```
+رقم الهاتف: +201234567890
+المهارات: C#, Java, Python, JavaScript
+الخبرة: 3 سنوات في تطوير البرمجيات
+التعليم: بكاليريوس في علوم الكمبيوتر من جامعة القاهرة
+العنوان: 123 شارع النيل، القاهرة، مصر
+الرمز البريدي: 12345
 ```
