@@ -1,8 +1,10 @@
+
+https://github.com/user-attachments/assets/748ad364-5cb4-430b-82fa-6aac2d661bd8
 # Smart CV & Form Validator (With Bonus Task)
 
 
 ## Project Video
-https://github.com/user-attachments/assets/23b39504-a1cc-4486-ac77-3e8035ca7295
+https://github.com/user-attachments/assets/dd55698a-89e1-4f83-b29a-5ebe50f53c82
 
 ## Bonus Task
 ![validator](https://github.com/user-attachments/assets/338c157c-cdce-4a23-9ef4-378aec4b4921)
