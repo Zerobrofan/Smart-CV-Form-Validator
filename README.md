@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/748ad364-5cb4-430b-82fa-6aac2d661bd8
 # Smart CV & Form Validator (With Bonus Task)
 
 
