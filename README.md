@@ -12,6 +12,10 @@ https://github.com/user-attachments/assets/dd55698a-89e1-4f83-b29a-5ebe50f53c82
 ## Project Description
 A C# Windows Forms application for validating user form input and parsing CV content using Regular Expressions (Regex).
 
+## Team Members
+- Abdallah Amir Monir - 221101049
+- Ahmed Abed Haseeb - 221101029
+
 ## 🚀 Features
 
 ### 1. Manual Form Entry
