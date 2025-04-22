@@ -79,6 +79,8 @@ English, French
 ```
 ### Arabic
 ```
+الاسم: أحمد محمد
+الايميل: ahmed@gmail.com
 رقم الهاتف: +201234567890
 المهارات: C#, Java, Python, JavaScript
 الخبرة: 3 سنوات في تطوير البرمجيات
